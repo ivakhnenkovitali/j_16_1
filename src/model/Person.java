@@ -27,13 +27,20 @@ public class Person {
         return age;
     }
 
+
+
     public void setAge(int age) {
         this.age = age;
     }
 
+
+
     public double getSalary() {
         return salary;
     }
+
+
+
 
     public void setSalary(double salary) {
         this.salary = salary;
