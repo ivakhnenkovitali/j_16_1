@@ -5,6 +5,9 @@ public class Person {
     private  int age;
     private  double salary;
 
+
+
+
     public Person(String name) {
         this.name = name;
     }
@@ -14,6 +17,8 @@ public class Person {
         this.age = age;
         this.salary = salary;
     }
+
+
 
     public String getName() {
         return name;
